@@ -151,7 +151,7 @@ Children:
       Name: LeftTubeSolenoid
     Properties:
       Default Command: !!robotbuilder.data.properties.TypeSelectionProperty {default: None,
-        name: Default Command, type: Command, validators: null, value: None}
+        name: Default Command, type: Command, validators: null, value: Autonomous Command}
       Constants: !!robotbuilder.data.properties.ConstantsProperty
         default: []
         name: Constants
